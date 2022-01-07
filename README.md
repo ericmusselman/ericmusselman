@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
 -->
 
 - 📫 How to reach me: eric.musselman@duke.edu
-- 👨🏻‍🎓 4th-year PhD candidate in BME @ Duke University in [Dr. Warren M. Grill's lab](https://grill-lab.pratt.duke.edu/)
+- 👨🏻‍🎓 5th-year PhD candidate in BME @ Duke University in [Dr. Warren M. Grill's lab](https://grill-lab.pratt.duke.edu/)
 - 🛠 Developing models of vagus nerve stimulation (VNS), a treatment for epilepsy and depression
 - 🤝 Looking to collaborate on novel applications of the ASCENT pipeline (GitHub: [wmglab-duke/ascent](https://github.com/wmglab-duke/ascent))
 - 🌱 Learning SQL and how to program with input from touchscreen user interfaces
