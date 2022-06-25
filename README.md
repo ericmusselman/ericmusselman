@@ -15,7 +15,6 @@ https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
 - 🛠 Developing models of vagus nerve stimulation (VNS), a treatment for epilepsy and depression
 - 💼 Pursuing my interests in medical devices, entrepreneurship, and software
 - 🤝 Looking to collaborate on novel applications of the ASCENT pipeline (GitHub: [wmglab-duke/ascent](https://github.com/wmglab-duke/ascent))
-- 🌱 Learning SQL and how to program with input from touchscreen user interfaces
 - 💬 Ask me about computational modeling, neuromodulation, COMSOL, NEURON, and student life @ [Duke](https://bme.duke.edu/)
 - ⚡ Fun facts: 4x tennis state champion in Texas, [my dog](https://www.instagram.com/huxmuss/) is named after the Hodgkin-Huxley model, GTHC
 - 😄 Pronouns: He/Him/His
