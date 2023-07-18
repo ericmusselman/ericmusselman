@@ -16,6 +16,6 @@ https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
 - 👨🏻‍🎓 Recently completed my PhD in biomedical engineering (computational neural engineering) @ Duke University
 - 🛠 Expert in developing models of vagus nerve stimulation (VNS), a treatment for epilepsy and depression, using open-source software I developed in my PhD (GitHub: [wmglab-duke/ascent](https://github.com/wmglab-duke/ascent))
 - 🌱 Learning about AI/ML with intent to apply these tools to make cool insights about human physiology and behavior
-- 💬 Ask me about computational modeling, neuromodulation, software development, COMSOL, NEURON, and student life @ [Duke](https://bme.duke.edu/)
+- 💬 Ask me about computational modeling, neuromodulation research, and software development
 - ⚡ Fun facts: 4x tennis state champion in Texas, [my dog](https://www.instagram.com/huxmuss/) is named after the Hodgkin-Huxley model, GTHC
 - 😄 Pronouns: He/Him/His
