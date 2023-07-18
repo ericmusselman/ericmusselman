@@ -10,11 +10,12 @@
 https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
 -->
 
-- 📫 How to reach me: eric.musselman@duke.edu
-- 👨🏻‍🎓 5th-year PhD candidate in BME @ Duke University in [Dr. Warren M. Grill's lab](https://grill-lab.pratt.duke.edu/)
-- 🛠 Developing models of vagus nerve stimulation (VNS), a treatment for epilepsy and depression
-- 💼 Pursuing my interests in medical devices, entrepreneurship, and software
-- 🤝 Looking to collaborate on novel applications of the ASCENT pipeline (GitHub: [wmglab-duke/ascent](https://github.com/wmglab-duke/ascent))
-- 💬 Ask me about computational modeling, neuromodulation, COMSOL, NEURON, and student life @ [Duke](https://bme.duke.edu/)
+- 📫 How to reach me: eric.m17duke@gmail.com or [LinkedIn](https://linkedin.com/in/ericmusselman)
+- 🤝 Seeking opportunities in the San Francisco Bay Area to develop software and algorithms that improve human health
+- 💼 Pursuing my interests in health technologies, software, and entrepreneurship
+- 👨🏻‍🎓 Recently completed my PhD in biomedical engineering (computational neural engineering) @ Duke University
+- 🛠 Expert in developing models of vagus nerve stimulation (VNS), a treatment for epilepsy and depression, using open-source software I developed in my PhD (GitHub: [wmglab-duke/ascent](https://github.com/wmglab-duke/ascent))
+- 🌱 Learning about AI/ML with intent to apply these tools to make cool insights about human physiology and behavior
+- 💬 Ask me about computational modeling, neuromodulation, software development, COMSOL, NEURON, and student life @ [Duke](https://bme.duke.edu/)
 - ⚡ Fun facts: 4x tennis state champion in Texas, [my dog](https://www.instagram.com/huxmuss/) is named after the Hodgkin-Huxley model, GTHC
 - 😄 Pronouns: He/Him/His
