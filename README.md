@@ -10,7 +10,7 @@
 https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
 -->
 
-- 📫 How to reach me: eric.m17duke@gmail.com or [LinkedIn](https://linkedin.com/in/ericmusselman)
+- 📫 How to reach me: eric.musselman@duke.edu or [LinkedIn](https://linkedin.com/in/ericmusselman)
 - 🤝 Seeking opportunities in the San Francisco Bay Area to develop software and algorithms that improve human health
 - 💼 Pursuing my interests in health technologies, software, and entrepreneurship
 - 👨🏻‍🎓 Recently completed my PhD in biomedical engineering (computational neural engineering) @ Duke University
