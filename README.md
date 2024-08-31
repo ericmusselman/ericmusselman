@@ -11,8 +11,8 @@ https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
 -->
 
 - 📫 How to reach me: eric.musselman@duke.edu or [LinkedIn](https://linkedin.com/in/ericmusselman)
-- 🤝 Seeking opportunities in the San Francisco Bay Area to develop software and algorithms that improve human health
-- 💼 Pursuing my interests in health technologies, software, and entrepreneurship
+- 🤝 Seeking opportunities in the San Francisco Bay Area
+- 💼 Pursuing my interests in engineering and entrepreneurship
 - 👨🏻‍🎓 Recently completed my PhD in biomedical engineering (computational neural engineering) @ Duke University
 - 🛠 Expert in developing models of vagus nerve stimulation (VNS), a treatment for epilepsy and depression, using open-source software I developed in my PhD (GitHub: [wmglab-duke/ascent](https://github.com/wmglab-duke/ascent))
 - 🌱 Learning about AI/ML with intent to apply these tools to make cool insights about human physiology and behavior
