@@ -10,12 +10,10 @@
 https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
 -->
 
-- 📫 How to reach me: eric.musselman@duke.edu or [LinkedIn](https://linkedin.com/in/ericmusselman)
-- 🤝 Seeking opportunities in the San Francisco Bay Area
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ericmusselman)
 - 💼 Pursuing my interests in engineering and entrepreneurship
-- 👨🏻‍🎓 Recently completed my PhD in biomedical engineering (computational neural engineering) @ Duke University
-- 🛠 Expert in developing models of vagus nerve stimulation (VNS), a treatment for epilepsy and depression, using open-source software I developed in my PhD (GitHub: [wmglab-duke/ascent](https://github.com/wmglab-duke/ascent))
-- 🌱 Learning about AI/ML with intent to apply these tools to make cool insights about human physiology and behavior
+- 👨🏻‍🎓 Completed my PhD in biomedical (neural) engineering @ Duke University
+- 🛠 Expert in developing models of vagus nerve stimulation (VNS), a treatment for epilepsy and depression
+- 🌱 Learning about AI/ML
 - 💬 Ask me about computational modeling, neuromodulation research, and software development
 - ⚡ Fun facts: 4x tennis state champion in Texas, [my dog](https://www.instagram.com/huxmuss/) is named after the Hodgkin-Huxley model, GTHC
-- 😄 Pronouns: He/Him/His
